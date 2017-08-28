@@ -89,6 +89,7 @@
   <ItemGroup>
     <Compile Include="Assets\CubeScript.cs" />
     <Compile Include="Assets\Sketch.cs" />
+    <Compile Include="Assets\SphereCode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
